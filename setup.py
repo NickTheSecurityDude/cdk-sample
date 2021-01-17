@@ -6,7 +6,7 @@ with open("README.md") as fp:
 
 
 setuptools.setup(
-    name="remediation",
+    name="project",
     version="0.0.1",
 
     description="An empty CDK Python app",
